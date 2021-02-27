@@ -1,0 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Dec 11 17:03:05 2020
+
+@author: DELL
+"""
+
+
+numpy==1.13.3+mkl
+Keras==2.0.8
+opencv==1.0.1
+opencv-python==3.3.0+contrib
